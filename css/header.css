@@ -230,7 +230,7 @@
 
 .header_style_two .mr_menu_toggle .toggle_line,
 .fixed_menu .mr_menu_toggle .toggle_line {
-	background: var(--main-color);
+	background: rgb(255 255 255);
 }
 
 .mr_menu {
